@@ -10,7 +10,7 @@ RUBANG.com
 
 1) Estructura princincipal (Angel)
 
-	* Estructura de inicio de crud
+	* Estructura de inicio de crud 50%
     * img in svg
 	* scroll infinito  de post
     * from en php -> database
