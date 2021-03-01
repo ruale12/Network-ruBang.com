@@ -15,7 +15,7 @@ case "$OSTYPE" in
         setterm -foreground green;
         figlet -cf slant "$ipp" ||cowsay sorry
         google-chrome "$ipp"
-        php -S "$ipp" -t www/
+        php -S "$ipp" -t www
         ;;
 esac
 #sshfs localhost:/path/to/folder /path/to/mount/point
