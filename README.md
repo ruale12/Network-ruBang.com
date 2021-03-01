@@ -1,7 +1,28 @@
 RUBANG.com
 ----------
 
-1) Crear una red social basadas en posters
+1) Estructura princiapl -> html
+	
+	Estructura de inicio de sesion 
+
+imagenes en svg y estructura de diseño -> csss
+
+	scroll infinito  de post
+
+from en php -> database 
+	
+	validacion de post por categoria de colores
+
+	cronologia de auto post para post futuros 
+
+	diseño de auto eddicion de las categorias del post publicadas por el usuario 
+
+	ventana de post en desarrollo
+
+	sugerien de ajustes de post en desarrollo
+
+
+2) Crear una red social basadas en posters
 	- ESTARA ORIENTADA HA LA PRIVASIDAD
 	- LA RED SOCIAL Y SUS CONECIONES SERA DIVIDIDAS EN CATEGORIAS COMO:
 		* AMIGO
@@ -20,5 +41,5 @@ RUBANG.com
 	
 	NECESIDADES TECNICAS:
 		- NECESITAREMOS EN CREAR LA PLATAFORMA Y EL BACKEN
-	 
+
  
