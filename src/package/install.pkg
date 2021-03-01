@@ -11,7 +11,7 @@
     case $net in
         0)
             #Actualizacion
-                sudo apt update && sudo apt upgrade
+                #sudo apt update && sudo apt upgrade
                 echo -e "\n Actualizado \n"
             #git
                 if [ -z $(command -v git) ]; then
