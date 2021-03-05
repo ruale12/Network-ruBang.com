@@ -35,7 +35,11 @@
 	</from>
 	<h2>
     	<?php include "php/ip.php"; //ip local del sevidor?>
+		<a href="php/registro.php">Registro</a>
+		</br>
 		<a href="php/info.php">info</a>
+		</br>
+		<!-- <a href="../README.md">README.md</a> -->
 	</h2>
 </body>
 </html>
